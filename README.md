@@ -3,10 +3,13 @@
 ## 效果展示
 最普通的样式
 ![](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_1.gif)
+
 圆角样式
 ![](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_2.gif)
+
 部分圆角样式
 ![](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_3.gif)
+
 icon支持Tint着色器
 ![](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_4.gif)
  
