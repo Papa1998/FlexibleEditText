@@ -1,13 +1,14 @@
 # FlexibleEditText
 这是我上传的第一个Android方向的UI控件，请多指教
 ## 效果展示
- - ![最普通的样式](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_1.gif)
-
- - ![圆角样式](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_2.gif)
-
- - ![部分圆角样式](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_3.gif)
-
- - ![icon支持Tint着色器](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_4.gif)
+最普通的样式
+![](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_1.gif)
+圆角样式
+![](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_2.gif)
+部分圆角样式
+![](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_3.gif)
+icon支持Tint着色器
+![](https://github.com/Papa1998/FlexibleEditText/blob/master/image/fet_4.gif)
  
 ## 目前支持的特性（v1.0.0）
  - xml中添加FlexibleEditText
