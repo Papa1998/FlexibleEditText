@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--FlexibleEditText-->
+    <declare-styleable name="FlexibleEditText">
+        <attr name="fet_backgroundColor" format="color"/>
+        <attr name="fet_buttonIconTint" format="color"/>
+        <attr name="fet_buttonIcon" format="reference|color"/>
+        <attr name="fet_leftTopCornerEnable" format="boolean"/>
+        <attr name="fet_rightTopCornerEnable" format="boolean"/>
+        <attr name="fet_leftBottomCornerEnable" format="boolean"/>
+        <attr name="fet_rightBottomCornerEnable" format="boolean"/>
+        <attr name="fet_corner" format="dimension"/>
+        <attr name="fet_duration" format="integer"/>
+        <attr name="fet_buttonWidth" format="dimension"/>
+        <attr name="fet_buttonHeight" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>
