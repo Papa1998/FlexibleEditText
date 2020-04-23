@@ -21,7 +21,7 @@
  - xml中添加FlexibleEditText
  - 自定义icon
  - AS的preview中显示展开后的的样式
-##  使用步骤(最好的例子是DEMO)
+##  使用步骤(最好的例子是[DEMO](https://github.com/Papa1998/FlexibleEditText/tree/master/app))
 ### 第一步 - 添加依赖
 在项目的build.gradle中添加以下依赖，应该都懂吧，这里就不多说了
  - 在根build.gradle下
